@@ -1,0 +1,41 @@
+﻿<Bar Mode="BarMode.VerticalInline"
+     Breakpoint="Breakpoint.Desktop"
+     Background="Background.Light"
+     ThemeContrast="ThemeContrast.Light"
+     CollapseMode="BarCollapseMode.Small"
+     Class="bg-Info">
+    <BarToggler Mode="BarTogglerMode.Normal" Class="bg-primary" />
+    <BarBrand>
+        <BarItem>
+            <BarLink To="#">
+                <img src="images/transparentlogo.png" width="40"/>
+                <img src="images/northbay.png" class="w-50" />
+
+            </BarLink>
+        </BarItem>
+    </BarBrand>
+    <BarMenu>
+        <BarItem Class="w-100">
+            <BarLink To="#" Class="py-3">
+                <BarIcon IconName="IconName.Dashboard" />
+                 Home
+            </BarLink>
+        </BarItem>
+
+
+        <BarItem Class="w-100">
+            <BarDropdown Class="">
+                <BarDropdownToggle Class="py-3">
+                    <BarIcon IconName="IconName.Adjust" />
+                    Inventory
+                </BarDropdownToggle>
+                <BarDropdownMenu>
+                    <BarDropdownItem>Action</BarDropdownItem>
+                    <BarDropdownDivider />
+                    <BarDropdownItem>Another action</BarDropdownItem>
+                </BarDropdownMenu>
+            </BarDropdown>
+        </BarItem>
+
+    </BarMenu>
+</Bar>

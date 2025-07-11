@@ -1,0 +1,17 @@
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
+wwwroot\Images\transparentlogo.png
+wwwroot\Images\northbay.png
+wwwroot\Images\navhome.svg
+wwwroot\Images\homelogo.png
+wwwroot\Images\grocerystock.png
+wwwroot\Images\readstock.png
+wwwroot\Images\home.png
+wwwroot\Images\arrrow.png
+C:\Users\Dell Laptop\source\repos\Myapp02\Myapp02\wwwroot\css\app.css
+C:\Users\Dell Laptop\source\repos\Myapp02\Myapp02\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\Dell Laptop\source\repos\Myapp02\Myapp02\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\Dell Laptop\source\repos\Myapp02\Myapp02\wwwroot\index.html
+C:\Users\Dell Laptop\source\repos\Myapp02\Myapp02\wwwroot\Images\navhome.svg

@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\Myapp02.styles.css",
+      "PackagePath": "staticwebassets\\Myapp02.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\wwwroot\\Images\\arrrow.png",
+      "PackagePath": "staticwebassets\\Images\\arrrow.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\wwwroot\\Images\\grocerystock.png",
+      "PackagePath": "staticwebassets\\Images\\grocerystock.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\wwwroot\\Images\\home.png",
+      "PackagePath": "staticwebassets\\Images\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\wwwroot\\Images\\homelogo.png",
+      "PackagePath": "staticwebassets\\Images\\homelogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\wwwroot\\Images\\navhome.svg",
+      "PackagePath": "staticwebassets\\Images\\navhome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\wwwroot\\Images\\northbay.png",
+      "PackagePath": "staticwebassets\\Images\\northbay.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\wwwroot\\Images\\readstock.png",
+      "PackagePath": "staticwebassets\\Images\\readstock.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\wwwroot\\Images\\transparentlogo.png",
+      "PackagePath": "staticwebassets\\Images\\transparentlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell Laptop\\source\\repos\\Myapp02\\Myapp02\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.Myapp02.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.Myapp02.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.build.Myapp02.props",
+      "PackagePath": "build\\Myapp02.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildMultiTargeting.Myapp02.props",
+      "PackagePath": "buildMultiTargeting\\Myapp02.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildTransitive.Myapp02.props",
+      "PackagePath": "buildTransitive\\Myapp02.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
